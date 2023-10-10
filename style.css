@@ -47,3 +47,8 @@ h1:hover {
 .benja{
     width: 90px;
 }
+
+.tarjeta{
+    width: 100%;
+    max-width: 1000px;
+}
